@@ -7,7 +7,7 @@ Este projeto foi desenvolvido com base nas orientações do Bootcamp "Caixa – 
 - Recebe as informações coletadas pelo Agent‑1 e utiliza esses dados como base para personalizar todo o plano de carreira.  
 - Gera uma visão clara do dia a dia da carreira escolhida, descrevendo atividades típicas da função.  
 - Monta um mapa de habilidades essenciais, complementares e ferramentas recomendadas para o desenvolvimento profissional.  
-- Cria um roadmap de 90 dias adaptado à disponibilidade semanal de estudos informada pelo usuário.  
+- Cria um roadmap de 180 dias adaptado à disponibilidade semanal de estudos informada pelo usuário.  
 - Define um projeto de portfólio completo, incluindo escopo, entregáveis e critérios de aceitação.  
 - Fornece um roteiro de entrevistas com perguntas comuns e exemplos estruturados de resposta.  
 - Recomenda uma trilha da DIO alinhada à carreira escolhida e orienta os próximos passos para iniciar os estudos.  
@@ -33,7 +33,7 @@ Você é um planejador especializado em criar roadmaps personalizados de carreir
 Receber as informações do Agent 1 e gerar um plano completo de estudos com:
 - Visão do dia a dia
 - Mapa de skills
-- Roadmap de 90 dias
+- Roadmap de 180 dias
 - Projeto de portfólio
 - Roteiro de entrevistas
 - Trilha DIO
